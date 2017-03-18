@@ -1,0 +1,24 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "Backend REST API for my personal site",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Stolle95/mySiteBackend.git"
+  },
+  "dependencies": {
+    "express": "*",
+    "body-parser": "*",
+    "mongoose": "*"
+  },
+  "author": "Filip Brännlund Stål",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Stolle95/mySiteBackend/issues"
+  },
+  "homepage": "https://github.com/Stolle95/mySiteBackend#readme"
+}
